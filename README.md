@@ -32,6 +32,14 @@ Esta tela possibilita:
 ●	Voltar para a tela Cardápio.
 ●	Limpar o pedido (excluir todos os produtos).
 ●	Concluir o pedido (realiza o pedido e navega para a tela Acompanhe seu pedido)
+
+# Para iniciar a aplicação
+
+- Inicie o projeto da pasta backgroud no 🍃SpringBoot.
+- Execute o *npm install* no projeto da pasta frontend para baixar as dependências.
+- Executeo "ng serve" para iniciar a aplicação na porta http://localhost:4200
+- 
+
   
 # Acompanhe seu pedido
 ![3acompanhe seu pedido](https://user-images.githubusercontent.com/78768376/143937668-0929b4d6-da2a-402d-b2b6-485862962a6a.png)
