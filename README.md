@@ -8,7 +8,8 @@ Aplicação com
 Front End em 🅰️ Angular integrado a um Back End feito com ☕Java +
 🍃SpringBoot e integrado ao MySQL.
 
-Descrição 
+##Descrição
+
 Aplicação completa (full stack) para pedido de refeições, utilizando Angular
 no frontend e Spring Boot no backend. Tal aplicação é composta por cinco telas.
 
