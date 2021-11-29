@@ -55,4 +55,4 @@ Após Salvar, a aplicação navega para a tela Gerenciar pedidos.
 
 - Inicie o projeto da pasta backgroud no 🍃SpringBoot.
 - Execute o *npm install* no projeto da pasta frontend para baixar as dependências.
-- Executeo "ng serve" para iniciar a aplicação na porta http://localhost:4200
+- Executeo *ng serve* para iniciar a aplicação na porta http://localhost:4200
